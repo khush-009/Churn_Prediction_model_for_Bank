@@ -1,1 +1,1 @@
-# Churn_Prediction_model_for_Banking
+# Churn_Prediction_model_for_Bank
